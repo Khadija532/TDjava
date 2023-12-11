@@ -18,7 +18,9 @@ public int getValue(){
 return val;
 }
 
-
+public String toString(){
+	return "("+val+")";
+}
 
 
 

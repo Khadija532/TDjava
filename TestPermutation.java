@@ -9,7 +9,7 @@ System.out.println("Avant permutation a= "+a.getValue()+" b= "+b.getValue());
 Permutation.permute(a,b);
  
  
-System.out.println("Apres permutation a= "+a.getValue()+" b= "+b.getValue());
+System.out.println("Apres permutation a= "+a+" b= "+b);
  
  
 }
